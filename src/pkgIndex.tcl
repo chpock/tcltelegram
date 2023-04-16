@@ -1,0 +1,1 @@
+package ifneeded tcltelegram::bot 1.0.0 [list source [file join $dir tcltelegrambot.tcl]]
